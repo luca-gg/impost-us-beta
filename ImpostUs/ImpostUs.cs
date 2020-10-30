@@ -86,7 +86,7 @@ namespace ImpostUs
                         
                         if (Controller.ResetKillTimer)
                         {
-                            data.WriteMemory_KillTimer(0.00F);
+                            data.WriteMemory_Dead(0);
                             Controller.ResetKillTimer = false;
                         }
                         if (Controller.AntiKillTimer)

@@ -15,7 +15,5 @@
         // Methods
         //OLD public static string PlayerControlGetData = "55 8B EC 80 3D 2A FC ??";
         public static string PlayerControlGetData = "55 8B EC 80 3D FA 1B ??";
-
-        public static string PlayerTaskComplete = "";
     }
 }
