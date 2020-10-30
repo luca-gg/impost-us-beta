@@ -18,4 +18,7 @@ Getting the executeable: Build it yourself or download the latest release binary
 - Anti killtimer
 - Change the Speed
 
+NEW:
+- Revive wenn you are dead! (You need to press the revive button in the voting after you where killed, then it works!)
+
 More features coming soon!
